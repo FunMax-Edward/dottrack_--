@@ -1,0 +1,5 @@
+{
+  "name": "DotTrack: 题号日历",
+  "description": "A minimalist, grid-based practice tracker. Define your question structure, track progress with simple colored dots, and let the spaced repetition system handle your reviews.",
+  "requestFramePermissions": []
+}

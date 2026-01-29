@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">DotTrack</string>
+    <string name="title_activity_main">DotTrack</string>
+    <string name="package_name">com.dottrack.app</string>
+    <string name="custom_url_scheme">com.dottrack.app</string>
+</resources>
